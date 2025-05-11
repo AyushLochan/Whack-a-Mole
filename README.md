@@ -5,16 +5,17 @@ Click on the moles as they appear before the time runs out. The faster you are, 
 
 ## 🚀 Features
 
-- 🕹️ Interactive gameplay
-- ⏱️ 30-second countdown timer
-- 🐹 Moles pop up randomly
-- 📈 Increasing difficulty as time decreases
-- 💾 No external libraries required
+- 🕹️ Interactive gameplay  
+- ⏱️ 30-second countdown timer  
+- 🐹 Moles pop up randomly  
+- 📈 Increasing difficulty as time decreases  
+- 💾 No external libraries required  
 
 ## 📸 Demo
 
-![image](https://github.com/user-attachments/assets/0b53a3de-1fab-4da4-9548-c40a4d9b1774)
+👉 [Play the Game](https://ayushlochan.github.io/Whack-a-Mole/)
 
+![Whack-a-Mole Screenshot](https://github.com/user-attachments/assets/0b53a3de-1fab-4da4-9548-c40a4d9b1774)
 
 ## 🛠️ Tech Stack
 
@@ -49,7 +50,7 @@ git clone https://github.com/AyushLochan/Whack-a-Mole.git
 cd Whack-a-Mole
 ````
 
-Then open `index.html` in your browser or a live server.
+Then open `index.html` in your browser or using a live server extension in your code editor.
 
 ## 🙌 Contributions
 
