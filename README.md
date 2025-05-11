@@ -13,7 +13,8 @@ Click on the moles as they appear before the time runs out. The faster you are, 
 
 ## 📸 Demo
 
-> *Coming soon!* (You can host this using GitHub Pages)
+![image](https://github.com/user-attachments/assets/0b53a3de-1fab-4da4-9548-c40a4d9b1774)
+
 
 ## 🛠️ Tech Stack
 
